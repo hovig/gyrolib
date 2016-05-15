@@ -1,6 +1,6 @@
 {
   "name": "gyrolib",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "A library for developing mobile and application clients interaction using gyroscope",
   "main": "lib/index.js",
   "dependencies": {
